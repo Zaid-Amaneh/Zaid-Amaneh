@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Zaid Amaneh, a Passionate Developer & Designer</h1>
+<h3 align="center">🚀 Flutter Developer | UI/UX Designer | Problem Solver 💡 Turning ideas into intuitive experiences, one line of code at a time. 🎯 Competitive programmer with a passion for AI & innovation.</h3>
+<img align="right" alt="Coding" width="320" height="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N4ZG41cWZkMTIwaGllczVpN3dmZjd4Mzc4OHg3bmc0NDdqNGxtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
-<!--
-**Zaid-Amaneh/Zaid-Amaneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid-amaneh&label=Profile%20views&color=0e75b6&style=flat" alt="zaid-amaneh" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- 🎨 **Advanced UI/UX Design** – Crafting intuitive, user-centered experiences like a digital Picasso. 🖌️  
+- 📱 **Advanced Flutter Development** – Creating smooth, pixel-perfect apps that even your grandma would love! 🚀  
+- 🧠 **Artificial Intelligence** – Teaching machines to think… or at least not break! 🤖  
+
+- 📝 I regularly write articles on [www.linkedin.com/in/zaidamaneh](www.linkedin.com/in/zaidamaneh)
+
+### 💬 Ask me about:
+- 📱 **Flutter Development** – From responsive UIs to state management, I’ve got you covered!  
+- 🎨 **UI/UX Design** – Need tips on making your app look stunning? Let’s talk!  
+- 🏆 **Competitive Programming** – Stuck on a tricky algorithm? I love a good challenge!  
+- 🚀 **Problem-Solving & Optimization** – Finding smart and efficient solutions is my thing!  
+
+### 📫 How to Reach Me:
+**📧 Email:** [amanahzaid627@gmail.com](mailto:amanahzaid627@gmail.com)
+
+### ⚡ Fun Fact:
+- 🏃‍♂️ I believe in sprinting—whether it’s solving coding challenges or running to catch the bus!  
+- 🍵 I’m the rare breed of programmer who prefers tea over coffee—talk about breaking stereotypes! ☕❌🍵✔️  
+- 🍩 I believe in bug-free code and donuts—both require precision and a little bit of sweetness! 🍩🐞  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/zaidamaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaidamaneh" height="30" width="40" /></a>
+<a href="https://www.behance.net/zaidamaneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zaidamaneh" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/zaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zaid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zaid_am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zaid_am" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid-amaneh&show_icons=true&locale=en&layout=compact" alt="zaid-amaneh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid-amaneh&show_icons=true&locale=en" alt="zaid-amaneh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-amaneh&" alt="zaid-amaneh" /></p>
