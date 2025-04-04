@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnQ1N3M0cTR2MDAzZ2phdnQ3cTNzaHU2bmdvM29kdHlycmIycDNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="banner" style="height: 200px; object-fit: cover;" />
+  <img 
+    src="https://github.com/Zaid-Amaneh/Zaid-Amaneh/blob/main/banner/Blue%20Graphic%20Designer%20LinkedIn%20Banner%20(3).png" 
+    alt="banner" 
+    style="width: 100%; height: 200px; object-fit: cover;" 
+  />
 </p>
+
 
 
 <h1 align="center">Hey there! 👋 I'm Zaid Amaneh, a Passionate Developer & Designer</h1>
