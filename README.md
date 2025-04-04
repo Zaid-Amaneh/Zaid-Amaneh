@@ -35,11 +35,6 @@
 
 ---
 
-### 📫 How to Reach Me:
-**📧 Email:** [amanahzaid627@gmail.com](mailto:amanahzaid627@gmail.com)
-
----
-
 ### ⚡ Fun Fact:
 - 🏃‍♂️ I believe in sprinting—whether it’s solving coding challenges or running to catch the bus!  
 - 🍵 I’m the rare breed of programmer who prefers tea over coffee—talk about breaking stereotypes! ☕❌🍵✔️  
@@ -47,20 +42,23 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/zaidamaneh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="mailto:amanahzaid627@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/zaidamaneh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.behance.net/zaidamaneh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
-  <a href="https://codeforces.com/profile/zaid" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  <a href="https://gitlab.com/zaidamanah200" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
-  <a href="https://www.leetcode.com/zaid_am" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://t.me/Zaid_AMANEH" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </p>
 
