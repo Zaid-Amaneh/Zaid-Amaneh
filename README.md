@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/Zaid-Amaneh/Zaid-Amaneh/blob/main/banner/Blue%20Graphic%20Designer%20LinkedIn%20Banner%20(3).png" 
+    src="https://github.com/Zaid-Amaneh/Zaid-Amaneh/blob/main/banner/ZAID%20AMANEH%20(1).png" 
     alt="banner" 
     style="width: 100%; height: 200px; object-fit: cover;" 
   />
