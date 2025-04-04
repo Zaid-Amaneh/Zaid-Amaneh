@@ -42,7 +42,7 @@
 
 ---
 
-## 📬 Connect with me
+### 📬 Connect with me
 
 <p align="left">
   <a href="mailto:amanahzaid627@gmail.com" target="_blank">
@@ -64,9 +64,16 @@
 
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,cpp,cmake,figma,firebase,git,github,gitlab,java,matlab,mysql,postman,supabase,visualstudio,vscode,windows,androidstudio,html)](https://skillicons.dev)
+## 📚 Languages  
+[![My Skills](https://skillicons.dev/icons?i=dart,cpp,java,html,matlab)](https://skillicons.dev)
+
+## ⚙️ Frameworks & Libraries  
+[![My Skills](https://skillicons.dev/icons?i=flutter,cmake)](https://skillicons.dev)
+
+## 🧰 Tools & Platforms  
+  [![My Skills](https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,mysql,postman,supabase,visualstudio,vscode,androidstudio,windows)](https://skillicons.dev)
 
 ---
 
