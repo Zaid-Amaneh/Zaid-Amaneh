@@ -70,13 +70,13 @@
 ### 🛠️ Skills
 
 #### 📚 Languages  
-[![My Skills](https://skillicons.dev/icons?i=dart,cpp,java,html,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,cpp,py,js,java,html,matlab)](https://skillicons.dev)
 
 #### ⚙️ Frameworks & Libraries  
 [![My Skills](https://skillicons.dev/icons?i=flutter,cmake)](https://skillicons.dev)
 
 #### 🧰 Tools & Platforms  
-[![My Skills](https://skillicons.dev/icons?i=figma,firebase,git,github,gitlab,mysql,postman,supabase,visualstudio,vscode,androidstudio,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,firebase,gradle,docker,git,github,gitlab,mysql,postman,supabase,visualstudio,vscode,androidstudio,windows)](https://skillicons.dev)
 
 ---
 
